@@ -1,4 +1,4 @@
-# Python-Project-on-Correlation/Statistical Analysis.
+# Python-Project-on-Correlation/Statistical Analysis
 Estimating relationship between Ads-Spending and Sales. 
 what type of Ads contribute to sales. 
 can Sales be predicted with the insights generated from Ads spending.
