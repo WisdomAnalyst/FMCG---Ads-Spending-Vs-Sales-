@@ -1,4 +1,4 @@
-# # Python-Project-on-Correlation/Statistical Analysis on Ads Spending vs Sales
+# Python-Project-on-Correlation/Statistical Analysis On FMCG Ads Spending vs Sales
 # Estimating relationship between Ads-Spending and Sales. 
 what type of Ads ( TV, Radio and Newspaper)contribute Positively to sales of the given FMCG products.. 
 can Sales be predicted with the insights generated from Ads spending?
