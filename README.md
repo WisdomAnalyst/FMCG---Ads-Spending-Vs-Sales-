@@ -1,6 +1,6 @@
 # Python-Project-on-Correlation/Statistical Analysis On FMCG Ads Spending vs Sales
 # Estimating relationship between Ads-Spending and Sales. 
-Questionsare, What type of Ads (TV, Radio and Newspaper)contribute Positively to sales of the given FMCG products?
+Questions are, What type of Ads (TV, Radio and Newspaper)contribute Positively to sales of the given FMCG products?
 Can Sales be predicted with the insights generated from Ads spending?
 In Conclusion, a weak Correlation is Observed  Between Radio Ads spend Vs Sales and Newspaper Ads Spend vs Sales on the Correlation Matrix
 but, a Strong Correlation Between Tv Ads spend Vs Sales was established.
