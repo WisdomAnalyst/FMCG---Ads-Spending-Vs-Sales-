@@ -8,4 +8,4 @@ As well as Observing a linear regression model giving the Predicted Sales for a 
 that means getting a predictor for a  #50,000 Increase in Ads spend will Result to an increase in Sales of 7.032594 + 0.047537 * 50 
 = 9.4 
 
-an increase for a #50,000 increase in Ads spend results in an increase of 9.4 widget for a given FMCG product.
+an increase for a #50,000 increase in Ads spend results in an increase of 9.4 CPG for a given FMCG product.
